@@ -1,0 +1,4 @@
+ interface FormaInterface {
+    double calcularArea();
+
+}
